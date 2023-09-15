@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252013110563",
+    "project_id": "smartfarm-6dc4f",
+    "storage_bucket": "smartfarm-6dc4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252013110563:android:72e36696fb4e5eb4cb5896",
+        "android_client_info": {
+          "package_name": "com.grandra.smartfarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH6_DDZaq4f8IdHWXgAPuH5WhYnrnKcJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
